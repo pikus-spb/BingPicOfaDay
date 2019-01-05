@@ -1,5 +1,5 @@
 # BingPicOfaDay
-Sets Bing daily picture as background for Elementary OS (linux) 
+Sets Bing daily picture as background for Gnome desktop linux (Ubuntu, Elementary OS) 
 
 Install:
 
