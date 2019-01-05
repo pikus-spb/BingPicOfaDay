@@ -1,0 +1,23 @@
+{
+  "name": "bingpicofaday",
+  "version": "1.0.0",
+  "description": "Downloads and installs Bing picture of a day for lementary OS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bing",
+    "picture",
+    "of",
+    "a",
+    "day",
+    "elementary",
+    "os"
+  ],
+  "author": "Petr Savelev",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
