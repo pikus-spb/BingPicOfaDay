@@ -1,7 +1,7 @@
 {
   "name": "bingpicofaday",
   "version": "1.0.0",
-  "description": "Downloads and installs Bing picture of a day for lementary OS",
+  "description": "Downloads and installs Bing picture of a day for Elementary OS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
